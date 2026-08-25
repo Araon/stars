@@ -626,6 +626,7 @@
 
 ## linux 
 
+- [sinder38/live-paper-rs](https://github.com/sinder38/live-paper-rs) - Live Wallpapers for Wayland)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome) - Flat Remix is a GNOME Shell theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -782,7 +783,6 @@
 
 ## others 
 
-- [sinder38/live-paper-rs](https://github.com/sinder38/live-paper-rs) - Live Wallpapers for Wayland)
 - [wuzhouhui/misc2](https://github.com/wuzhouhui/misc2) - 
 - [adithya-s-k/RL_Envs_101](https://github.com/adithya-s-k/RL_Envs_101) - Building and Scaling RL environments in the age of LLMs
 - [younes-makhchan/ESP32_Video_Display](https://github.com/younes-makhchan/ESP32_Video_Display) - Play any black and white video on ESP32 with SSD1306 OLED display.
