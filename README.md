@@ -119,6 +119,7 @@
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -277,6 +278,7 @@
 
 ## cli 
 
+- [pranav718/tsuna](https://github.com/pranav718/tsuna) - peer-to-peer synchronized video watching. no servers. no accounts. just a room code and a udp packet.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's CLI and TUI client -- The ultimate weapon against brainrot
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, a
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -480,6 +482,7 @@
 
 ## golang 
 
+- [pranav718/tsuna](https://github.com/pranav718/tsuna) - peer-to-peer synchronized video watching. no servers. no accounts. just a room code and a udp packet.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, a
@@ -703,6 +706,7 @@
 
 ## nextjs 
 
+- [pranav718/tsuna](https://github.com/pranav718/tsuna) - peer-to-peer synchronized video watching. no servers. no accounts. just a room code and a udp packet.
 - [ruru-m07/ruru-ui](https://github.com/ruru-m07/ruru-ui) - Ruru UI is a design system for building classic web applications.
 - [arthureberledev/qriginals](https://github.com/arthureberledev/qriginals) - Qriginals is a platform for creating and sharing QR code designs. See what others have used as prompt and parameters and use it to create your own unique art!
 - [wahabshaikh/todo-app](https://github.com/wahabshaikh/todo-app) - 
@@ -896,6 +900,10 @@
 - [llSourcell/Predicting_Winning_Teams](https://github.com/llSourcell/Predicting_Winning_Teams) - This is the code for "Predicting the Winning Team with Machine Learning" by Siraj Raval on Youtube
 - [mjk188/ASL-Translator](https://github.com/mjk188/ASL-Translator) - American Sign Language Translator using OpenCV and Machine Learning.
 - [grassjelly/gesture_drone](https://github.com/grassjelly/gesture_drone) - Gesture controlled quadcopter
+
+## p2p 
+
+- [pranav718/tsuna](https://github.com/pranav718/tsuna) - peer-to-peer synchronized video watching. no servers. no accounts. just a room code and a udp packet.
 
 ## portfolio 
 
