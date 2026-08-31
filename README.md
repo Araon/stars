@@ -137,6 +137,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
@@ -169,6 +170,7 @@
 
 ## agents 
 
+- [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 
 ## ai 
@@ -640,6 +642,7 @@
 
 ## llm 
 
+- [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 - [manthanguptaa/real-world-llm-apps](https://github.com/manthanguptaa/real-world-llm-apps) - curated collection of real world applications that use LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -788,7 +791,6 @@
 ## others 
 
 - [wuzhouhui/misc2](https://github.com/wuzhouhui/misc2) - 
-- [adithya-s-k/RL_Envs_101](https://github.com/adithya-s-k/RL_Envs_101) - Building and Scaling RL environments in the age of LLMs
 - [younes-makhchan/ESP32_Video_Display](https://github.com/younes-makhchan/ESP32_Video_Display) - Play any black and white video on ESP32 with SSD1306 OLED display.
 - [sascommunities/kafka-training](https://github.com/sascommunities/kafka-training) - This repository contains labs, lectures, and reference material used to train developers and operations how to use Apache Kafka.
 - [Zomato/mcp-server-manifest](https://github.com/Zomato/mcp-server-manifest) - 
@@ -1020,6 +1022,10 @@
 ## reactjs 
 
 - [deeppatel234/fire-dashboard](https://github.com/deeppatel234/fire-dashboard) - New Tab Dashboard and Bookmark Manager
+
+## reinforcement-learning 
+
+- [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 
 ## rest-api 
 
