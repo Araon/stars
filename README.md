@@ -254,7 +254,7 @@
 
 ## blockchain 
 
-- [LF-Decentralized-Trust-labs/cbweb3](https://github.com/LF-Decentralized-Trust-labs/cbweb3) - 
+- [LF-Decentralized-Trust-labs/cbweb3](https://github.com/LF-Decentralized-Trust-labs/cbweb3) - CBWeb3 — cross-border payments with CBDC settlement (PvP/HTLC and AMM scenarios). An LF Decentralized Trust lab.
 
 ## bootstrap 
 
