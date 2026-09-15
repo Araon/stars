@@ -484,14 +484,14 @@
 ## go 
 
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 
 ## golang 
 
 - [pranav718/tsuna](https://github.com/pranav718/tsuna) - peer-to-peer synchronized video watching. no servers. no accounts. just a room code and a udp packet.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, a
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -650,7 +650,7 @@
 - [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 - [manthanguptaa/real-world-llm-apps](https://github.com/manthanguptaa/real-world-llm-apps) - curated collection of real world applications that use LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [emrgnt-cmplxty/automata](https://github.com/emrgnt-cmplxty/automata) - Automata: A self-coding agent
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, a
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
