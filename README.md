@@ -77,6 +77,7 @@
 - [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [instagram](#instagram)
 - [iot](#iot)
@@ -141,6 +142,7 @@
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [rust](#rust)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -171,7 +173,7 @@
 
 ## agents 
 
-- [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
+- [adithya-s-k/FineEnvs](https://github.com/adithya-s-k/FineEnvs) - FineEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 
 ## ai 
@@ -483,12 +485,14 @@
 
 ## go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 
 ## golang 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [pranav718/tsuna](https://github.com/pranav718/tsuna) - peer-to-peer synchronized video watching. no servers. no accounts. just a room code and a udp packet.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -567,7 +571,12 @@
 
 ## http 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+## https 
+
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## image-processing 
 
@@ -647,7 +656,7 @@
 
 ## llm 
 
-- [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
+- [adithya-s-k/FineEnvs](https://github.com/adithya-s-k/FineEnvs) - FineEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 - [manthanguptaa/real-world-llm-apps](https://github.com/manthanguptaa/real-world-llm-apps) - curated collection of real world applications that use LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -923,6 +932,7 @@
 
 ## privacy 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
@@ -1030,7 +1040,7 @@
 
 ## reinforcement-learning 
 
-- [adithya-s-k/HuggingEnvs](https://github.com/adithya-s-k/HuggingEnvs) - HuggingEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
+- [adithya-s-k/FineEnvs](https://github.com/adithya-s-k/FineEnvs) - FineEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 
 ## rest-api 
 
@@ -1044,6 +1054,10 @@
 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+
+## security 
+
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## self-hosted 
 
