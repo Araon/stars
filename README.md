@@ -189,7 +189,7 @@
 
 ## ai-agents 
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, a
 
 ## algorithm 
@@ -658,7 +658,7 @@
 
 - [adithya-s-k/FineEnvs](https://github.com/adithya-s-k/FineEnvs) - FineEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 - [manthanguptaa/real-world-llm-apps](https://github.com/manthanguptaa/real-world-llm-apps) - curated collection of real world applications that use LLMs
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [emrgnt-cmplxty/automata](https://github.com/emrgnt-cmplxty/automata) - Automata: A self-coding agent
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, a
@@ -693,6 +693,7 @@
 
 ## mcp 
 
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, a
 
 ## microservices 
@@ -804,6 +805,7 @@
 
 ## others 
 
+- [ozarkgarage/AndroidNavAutomator](https://github.com/ozarkgarage/AndroidNavAutomator) - Turns the screen on and loads navigation app when power is connected
 - [wuzhouhui/misc2](https://github.com/wuzhouhui/misc2) - 
 - [younes-makhchan/ESP32_Video_Display](https://github.com/younes-makhchan/ESP32_Video_Display) - Play any black and white video on ESP32 with SSD1306 OLED display.
 - [sascommunities/kafka-training](https://github.com/sascommunities/kafka-training) - This repository contains labs, lectures, and reference material used to train developers and operations how to use Apache Kafka.
@@ -966,7 +968,7 @@
 
 - [saraswatayu/swoop](https://github.com/saraswatayu/swoop) - Search Google Flights programmatically. Real prices, typed results, no API key.
 - [manthanguptaa/real-world-llm-apps](https://github.com/manthanguptaa/real-world-llm-apps) - curated collection of real world applications that use LLMs
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [gitpack-ai/gitpack-ai](https://github.com/gitpack-ai/gitpack-ai) - Automate Pull Request Reviews with AI 🪄
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
