@@ -269,7 +269,7 @@
 
 ## c 
 
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [engineer-man/youtube](https://github.com/engineer-man/youtube) - Code from the Engineer Man YouTube channel. Please do not submit pull requests, they will be ignored/closed. The code in the repo needs to remain as it was in the video.
 
 ## chatbot 
@@ -306,7 +306,7 @@
 
 ## code-quality 
 
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## command-line 
 
@@ -334,7 +334,7 @@
 ## cpp 
 
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [kothariji/BhimIntegers](https://github.com/kothariji/BhimIntegers) - BhimIntegers🚀 is a C++ library that is useful when we are dealing with BigIntegers💥💥. We can handle big integers (integers having a size bigger than the long long int data type) and we can perform ari
 
@@ -602,7 +602,7 @@
 ## java 
 
 - [KellzCodes/Java-Practice](https://github.com/KellzCodes/Java-Practice) - #100DaysOfCode Java Practice
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## javascript 
 
@@ -769,7 +769,7 @@
 
 ## objective-c 
 
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## obsidian 
 
