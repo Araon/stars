@@ -12,6 +12,7 @@
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
 - [android](#android)
+- [animation](#animation)
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
@@ -207,6 +208,10 @@
 - [NitishGadangi/Privacy-Indicator-App](https://github.com/NitishGadangi/Privacy-Indicator-App) - 🔔 Get the famous "Recording Indicators" feature of iOS14 to android. Get notified every time a third-party app or a service uses camera or microphone.
 - [ayamdobhal/reddit-cli](https://github.com/ayamdobhal/reddit-cli) - [DEPRECATED]A python script to browse reddit from the command line.
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
+
+## animation 
+
+- [NitishGadangi/TypeWriter-TextView](https://github.com/NitishGadangi/TypeWriter-TextView) - Android Library to Get Smooth and Polished Typewriter Effect for TextView
 
 ## api 
 
@@ -901,7 +906,6 @@
 - [jonnyhyman/MakePython](https://github.com/jonnyhyman/MakePython) - A simple, powerful Python text editor and installer
 - [jonnyhyman/QuantumWaves](https://github.com/jonnyhyman/QuantumWaves) - A Schrodinger-equation quantum wave function visualization
 - [jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [NitishGadangi/TypeWriter-TextView](https://github.com/NitishGadangi/TypeWriter-TextView) - Android Library to Get Smooth and Polished Typewriter Effect for TextView
 - [tuanavu/coursera-stanford](https://github.com/tuanavu/coursera-stanford) - Stanford
 - [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
