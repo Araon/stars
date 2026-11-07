@@ -163,6 +163,7 @@
 - [ui](#ui)
 - [video](#video)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [windows](#windows)
@@ -186,7 +187,6 @@
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [arthureberledev/qriginals](https://github.com/arthureberledev/qriginals) - Qriginals is a platform for creating and sharing QR code designs. See what others have used as prompt and parameters and use it to create your own unique art!
 - [emrgnt-cmplxty/automata](https://github.com/emrgnt-cmplxty/automata) - Automata: A self-coding agent
-- [IBM/clai](https://github.com/IBM/clai) - Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## ai-agents 
@@ -232,7 +232,6 @@
 ## artificial-intelligence 
 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
-- [IBM/clai](https://github.com/IBM/clai) - Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface.
 
 ## awesome 
 
@@ -258,7 +257,6 @@
 
 - [gh2o/bash_tls](https://github.com/gh2o/bash_tls) - A minimal TLS 1.2 client implementation in a pure Bash script
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [IBM/clai](https://github.com/IBM/clai) - Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface.
 
 ## blockchain 
 
@@ -316,7 +314,6 @@
 ## command-line 
 
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [IBM/clai](https://github.com/IBM/clai) - Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface.
 
 ## compiler 
 
@@ -683,7 +680,6 @@
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
-- [IBM/clai](https://github.com/IBM/clai) - Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface.
 - [ShivamShrirao/dnn_from_scratch](https://github.com/ShivamShrirao/dnn_from_scratch) - A high level deep learning library for Convolutional Neural Networks,GANs and more, made from scratch(numpy/cupy implementation).
 - [rrupeshh/Simple-Sign-Language-Detector](https://github.com/rrupeshh/Simple-Sign-Language-Detector) - Simple Sign Language Detector
 
@@ -882,7 +878,6 @@
 - [BilHim/trafficSimulator](https://github.com/BilHim/trafficSimulator) - A microscopic traffic simulation in Python
 - [darglein/ADOP](https://github.com/darglein/ADOP) - 
 - [Error916/Bad_Apple_frames](https://github.com/Error916/Bad_Apple_frames) - 
-- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [l3th4l/KACD-Matsuri-Bot](https://github.com/l3th4l/KACD-Matsuri-Bot) - 
 - [sandoche/nuxtjs-darkmode-js-module](https://github.com/sandoche/nuxtjs-darkmode-js-module) - 🌓 Add darkmode / nightmode to your nuxt project in a few seconds
@@ -1163,6 +1158,10 @@
 ## visualization 
 
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+
+## vscode 
+
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 
 ## vue 
 
