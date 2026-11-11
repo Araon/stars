@@ -167,6 +167,7 @@
 - [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [youtube](#youtube)
 
@@ -1175,6 +1176,10 @@
 ## vuejs 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+## whatsapp 
+
+- [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
 
 ## windows 
 
