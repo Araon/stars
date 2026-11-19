@@ -152,6 +152,7 @@
 - [shell](#shell)
 - [software](#software)
 - [spring-boot](#spring-boot)
+- [static-site-generator](#static-site-generator)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
@@ -1097,6 +1098,11 @@
 ## spring-boot 
 
 - [souvikdasdev/employee-management-system](https://github.com/souvikdasdev/employee-management-system) - Robust Employee Management web application developed using Spring Boot offers CRUD functionalities, authentication, role-based access control, and a minimal yet user-friendly interface for managing em
+
+## static-site-generator 
+
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
 ## telegram 
 
